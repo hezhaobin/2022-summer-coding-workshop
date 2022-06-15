@@ -1,0 +1,1 @@
+A three week course to introduce R and data visualization. See [course website](https://www.coursera.org/learn/jhu-getting-started-data-viz-r?specialization=jhu-data-visualization-dashboarding-with-r)
